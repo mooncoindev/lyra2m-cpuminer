@@ -1,0 +1,7 @@
+lyra2m cpu miner
+
+trialling a new algo for upcoming mooncoin 0.13.3 release. unzip the folder and run launch; it may take a minute before you see hashes. interested in collecting results across different platforms, screenshot and noted processor/cores/speed & windows version would be great.
+
+barrystyle
+
+(to compile for mac; use 'export CC=clang && ./configure --with-crypto --with-curl' sent in by fr33th 13062017)
